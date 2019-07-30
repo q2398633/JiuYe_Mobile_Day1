@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="box">
+      <van-button type="default">哒哒哒</van-button>
     </div>
     <router-view/>
   </div>
